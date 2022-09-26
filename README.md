@@ -38,9 +38,8 @@
 
 ---
 
-
-[pic-2.3.0]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/6a53e09c-d00a-4165-ac13-bfdd5d56df70.png
-[pic-2.3.1]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/b4706df5-f348-49bd-a7e3-f24368b8a185.png
-[pic-2.3.2]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/901482dd-2bd4-4dac-a14a-457902558a6c.png
-[pic-2.3.3]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/a861fc72-36a1-4853-b193-d664601138ef.png
-[pic-2.3.4]: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-1682933a-c290-4a19-a517-c44d14df20fc/dd9802ea-dbdf-48a2-abde-b16841b6685d.png
+[pic-2.3.0]: https://images.wait4echo.love/Works/micro-service/wl-ms-microServiceArch.png
+[pic-2.3.1]: https://images.wait4echo.love/Works/micro-service/wl-ms-microServiceShow0.png
+[pic-2.3.2]: https://images.wait4echo.love/Works/micro-service/wl-ms-microServiceShow1.png
+[pic-2.3.3]: https://images.wait4echo.love/Works/micro-service/wl-ms-nacosConfig.png
+[pic-2.3.4]: https://images.wait4echo.love/Works/micro-service/wl-ms-nacosRegister.png
